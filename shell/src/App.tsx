@@ -9,7 +9,7 @@ const App: React.FC = () => {
         <Header />
       </Suspense>
       <main>
-        <h2>Welcome to the Shell Application</h2>
+        <h2>Welcome to the Application</h2>
       </main>
     </div>
   );
